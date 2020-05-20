@@ -1,0 +1,3 @@
+﻿  try.cpp
+try.obj : error LNK2005: _main already defined in try.obj
+C:\Users\LENOVO\source\repos\Project 001\Release\Project 001.exe : fatal error LNK1169: one or more multiply defined symbols found

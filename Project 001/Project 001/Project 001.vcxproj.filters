@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="2.1">
+      <UniqueIdentifier>{06c9fca0-7d1d-4c8e-aeb1-cdc355040a7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.2">
+      <UniqueIdentifier>{bf88498c-eed4-4fe5-a097-5096f6bd3214}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.3">
+      <UniqueIdentifier>{e498e30f-91c3-440b-8145-3c704715bef0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.1">
+      <UniqueIdentifier>{6e66359c-63bd-4faa-a7ae-0bd75287ce8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.3">
+      <UniqueIdentifier>{45946a4b-fa0f-44a8-bdf3-8891089e4e7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.4">
+      <UniqueIdentifier>{b50ed7d6-b26a-4cab-841b-7165b329bca6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.5">
+      <UniqueIdentifier>{27f2e1b7-33ec-44c3-b6cb-bb432c251d55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.6">
+      <UniqueIdentifier>{e91afce8-f4b9-4b2e-b4a3-fae0465f6f64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.4">
+      <UniqueIdentifier>{dbb89e91-fe7e-4494-9291-e1553f449965}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.2">
+      <UniqueIdentifier>{626adf7a-91f9-4a2f-b7aa-9b0da1668d7b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="2.1 hw.cpp">
+      <Filter>2.1</Filter>
+    </None>
+    <None Include="2.1.cpp">
+      <Filter>2.1</Filter>
+    </None>
+    <None Include="2.2 hw.cpp">
+      <Filter>2.2</Filter>
+    </None>
+    <None Include="2.4.2.3.cpp">
+      <Filter>2.4</Filter>
+    </None>
+    <None Include="3.2.2.cpp">
+      <Filter>3.2</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2.2.cpp">
+      <Filter>2.2</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.cpp">
+      <Filter>2.3</Filter>
+    </ClCompile>
+    <ClCompile Include="2.4.0 .cpp">
+      <Filter>2.4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2.4.1.cpp">
+      <Filter>2.4</Filter>
+    </ClCompile>
+    <ClCompile Include="2.4.2.0.cpp">
+      <Filter>2.4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2.4.2.1.cpp">
+      <Filter>2.4</Filter>
+    </ClCompile>
+    <ClCompile Include="2.4.2.2.cpp">
+      <Filter>2.4</Filter>
+    </ClCompile>
+    <ClCompile Include="2.4.2.4.cpp">
+      <Filter>2.4</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.cpp">
+      <Filter>3.1</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.1.cpp">
+      <Filter>3.2</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.7.cpp">
+      <Filter>3.2</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.3.cpp">
+      <Filter>3.2</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3.cpp">
+      <Filter>3.3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4.cpp">
+      <Filter>3.4</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5.cpp">
+      <Filter>3.5</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6.1.cpp">
+      <Filter>3.6</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6.2.cpp">
+      <Filter>3.6</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6.3.cpp">
+      <Filter>3.6</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6.4.cpp">
+      <Filter>3.6</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

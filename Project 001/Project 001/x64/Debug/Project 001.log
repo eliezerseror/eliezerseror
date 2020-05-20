@@ -1,0 +1,4 @@
+﻿  001.cpp
+C:\Users\LENOVO\source\repos\Project 001\Project 001\001.cpp(4,1): error C2146: syntax error: missing ';' before identifier 'usind'
+C:\Users\LENOVO\source\repos\Project 001\Project 001\001.cpp(7,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\LENOVO\source\repos\Project 001\Project 001\001.cpp(7,1): error C2447: '{': missing function header (old-style formal list?)
