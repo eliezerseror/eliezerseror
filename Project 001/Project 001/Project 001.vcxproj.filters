@@ -107,5 +107,8 @@
     <ClCompile Include="3.6.4.cpp">
       <Filter>3.6</Filter>
     </ClCompile>
+    <ClCompile Include="3.6.5.cpp">
+      <Filter>3.6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
