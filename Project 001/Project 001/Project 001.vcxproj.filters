@@ -31,6 +31,9 @@
     <Filter Include="3.2">
       <UniqueIdentifier>{626adf7a-91f9-4a2f-b7aa-9b0da1668d7b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="4.1">
+      <UniqueIdentifier>{a83c2784-c9e6-4b7c-836d-9c2c81723df6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="2.1 hw.cpp">
@@ -104,11 +107,11 @@
     <ClCompile Include="3.6.3.cpp">
       <Filter>3.6</Filter>
     </ClCompile>
-    <ClCompile Include="3.6.4.cpp">
-      <Filter>3.6</Filter>
+    <ClCompile Include="4.1.1.cpp">
+      <Filter>4.1</Filter>
     </ClCompile>
-    <ClCompile Include="3.6.5.cpp">
-      <Filter>3.6</Filter>
+    <ClCompile Include="4.1.3.cpp">
+      <Filter>4.1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
