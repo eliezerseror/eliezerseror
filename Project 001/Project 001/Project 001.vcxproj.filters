@@ -51,6 +51,9 @@
     <None Include="3.2.2.cpp">
       <Filter>3.2</Filter>
     </None>
+    <None Include="4.1.7.cpp">
+      <Filter>4.1</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.2.cpp">
