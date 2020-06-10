@@ -1,5 +1,4 @@
 ﻿  ConsoleApplication1.cpp
-  test_itamar.cpp
-  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
   AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
   ConsoleApplication1.vcxproj -> C:\Users\Eli Seror\Documents\GitHub\eliezerseror\Project 001\x64\Debug\ConsoleApplication1.exe

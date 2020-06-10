@@ -8,6 +8,7 @@ int main() {
 
 	int num1, total1, total2;
 	total1 = 1;
+	total2 = 0;
 
 	while (total1 != 0)
 	{
