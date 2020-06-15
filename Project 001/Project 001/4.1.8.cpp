@@ -1,32 +1,31 @@
-#include <iostream>
-
-#include <cstdlib>
-
-#include < ctime>
+#include<iostream>
+#include<cstdlib>
+#include<ctime>
 
 
+using std::cout;
+using std::cin;
+using std::endl;
 
-
-	int main()
-
+int main()
 {
+	int a, b;
 
-	int i = 0;
+	a = 0;
+	b = 1;
+	srand(time(NULL));
 
-
-
-	srand((unsigned)time(NULL));      // ‘turn the machine on’ 
-
-
-
-	while (i < 10) {
-
-		std::cout << rand() % 101 << " ";     //gen a random val
-
-		i++;
-
+	while (b != 0)
+	{
+		a++;
+		b = ((rand()) % 20);
+		cout <<" "<< a << "." << b;
 	}
 
-	return 0;
+	cout << endl << "The number of times the system work was: " << a;
+	
 
+
+
+	return 0;
 }
