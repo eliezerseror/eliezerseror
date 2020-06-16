@@ -51,16 +51,13 @@
     <None Include="3.2.2.cpp">
       <Filter>3.2</Filter>
     </None>
-    <None Include="4.1.7.cpp">
+    <None Include="4.1.7 while .cpp">
       <Filter>4.1</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.2.cpp">
       <Filter>2.2</Filter>
-    </ClCompile>
-    <ClCompile Include="2.3.cpp">
-      <Filter>2.3</Filter>
     </ClCompile>
     <ClCompile Include="2.4.0 .cpp">
       <Filter>2.4</Filter>
@@ -74,32 +71,14 @@
     <ClCompile Include="..\2.4.2.1.cpp">
       <Filter>2.4</Filter>
     </ClCompile>
-    <ClCompile Include="2.4.2.2.cpp">
-      <Filter>2.4</Filter>
-    </ClCompile>
     <ClCompile Include="2.4.2.4.cpp">
       <Filter>2.4</Filter>
-    </ClCompile>
-    <ClCompile Include="3.1.cpp">
-      <Filter>3.1</Filter>
     </ClCompile>
     <ClCompile Include="3.2.1.cpp">
       <Filter>3.2</Filter>
     </ClCompile>
-    <ClCompile Include="3.2.7.cpp">
-      <Filter>3.2</Filter>
-    </ClCompile>
     <ClCompile Include="3.2.3.cpp">
       <Filter>3.2</Filter>
-    </ClCompile>
-    <ClCompile Include="3.3.cpp">
-      <Filter>3.3</Filter>
-    </ClCompile>
-    <ClCompile Include="3.4.cpp">
-      <Filter>3.4</Filter>
-    </ClCompile>
-    <ClCompile Include="3.5.cpp">
-      <Filter>3.5</Filter>
     </ClCompile>
     <ClCompile Include="3.6.1.cpp">
       <Filter>3.6</Filter>
@@ -116,7 +95,34 @@
     <ClCompile Include="4.1.3.cpp">
       <Filter>4.1</Filter>
     </ClCompile>
-    <ClCompile Include="4.1.8.cpp">
+    <ClCompile Include="2.3 Documentation.cpp">
+      <Filter>2.3</Filter>
+    </ClCompile>
+    <ClCompile Include="2.4.2.2 double .cpp">
+      <Filter>2.4</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1 if.cpp">
+      <Filter>3.1</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.7 if else .cpp">
+      <Filter>3.2</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3 bool .cpp">
+      <Filter>3.3</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4 switch .cpp">
+      <Filter>3.4</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5 Question Mark .cpp">
+      <Filter>3.5</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.8.1 rand .cpp">
+      <Filter>4.1</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.8.2 const .cpp">
+      <Filter>4.1</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.9 continue .cpp">
       <Filter>4.1</Filter>
     </ClCompile>
   </ItemGroup>
