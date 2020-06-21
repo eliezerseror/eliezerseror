@@ -34,6 +34,9 @@
     <Filter Include="4.1">
       <UniqueIdentifier>{a83c2784-c9e6-4b7c-836d-9c2c81723df6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="4.2">
+      <UniqueIdentifier>{e70f74c5-89af-41ed-8909-ef97594bf135}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="2.1 hw.cpp">
@@ -53,6 +56,9 @@
     </None>
     <None Include="4.1.7 while .cpp">
       <Filter>4.1</Filter>
+    </None>
+    <None Include="4.2.0  for 2 .cpp">
+      <Filter>4.2</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>

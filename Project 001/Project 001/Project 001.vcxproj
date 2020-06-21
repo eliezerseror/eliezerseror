@@ -144,6 +144,7 @@
     <None Include="2.4.2.3.cpp" />
     <None Include="3.2.2.cpp" />
     <None Include="4.1.7 while .cpp" />
+    <None Include="4.2.0  for 2 .cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\2.4.1.cpp" />
