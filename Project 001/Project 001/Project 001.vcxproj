@@ -170,6 +170,7 @@
     <ClCompile Include="4.1.8.1 rand .cpp" />
     <ClCompile Include="4.1.8.2 const .cpp" />
     <ClCompile Include="4.1.9 continue .cpp" />
+    <ClCompile Include="4.2.1.0  .cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

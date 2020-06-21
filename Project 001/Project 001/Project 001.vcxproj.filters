@@ -131,5 +131,8 @@
     <ClCompile Include="4.1.9 continue .cpp">
       <Filter>4.1</Filter>
     </ClCompile>
+    <ClCompile Include="4.2.1.0  .cpp">
+      <Filter>4.2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
